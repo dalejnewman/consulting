@@ -18,5 +18,4 @@ var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/13lSgjEafte8N
     
  });
 }
-
   window.addEventListener('DOMContentLoaded', init)
